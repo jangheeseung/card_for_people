@@ -17,6 +17,7 @@
     2. 그러나 편의점 식품의 특성상 균형잡힌 영양소 섭취가 어렵고, 패스트푸드 위주의 식단에, 신선한 채소와 과일 구매가 어렵다.
     3. 즉석식품/과일/유제품/반찬류/난각류 등으로 구매 가능 품목이 제한되어 있다. 즉, 과자나 탄산음료 등의 구매가 불가능하다.
     ---
-    
+## 실제서비스 화면
+![Uploading web_capture.png…]()
 * **[JinKyoung Ham](https://github.com/HamJinKyoung)** - *Back-end*
 * **[HeeSeung Jang](https://github.com/jangheeseung)** - *Fornt-end*
